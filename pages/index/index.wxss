@@ -1,0 +1,13 @@
+.input-wrap {
+  display: flex;
+  flex-direction: row;
+}
+
+.info-input {
+  border-bottom: 2rpx solid #742020;
+  width: 200rpx;
+}
+
+.login {
+  margin-top: 60rpx;
+}
